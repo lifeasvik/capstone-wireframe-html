@@ -1,0 +1,30 @@
+.intro {
+  display: flex;
+  justify-content: center;
+}
+
+.userflow {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.posttext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.images {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.boxeditem {
+  width: 250px;
+  height: 150px;
+  background-color: grey;
+  margin: 20px;
+}
